@@ -1,0 +1,26 @@
+#RRR{
+    border:3px ridge peru;
+    
+    height:100px;
+    
+    position: sticky;
+}
+#RRR2{
+    border:3px ridge rgb(103, 247, 26);
+    width:100px;
+    height:100px;
+    display:inline;
+    position: ;
+}
+div{
+    height:250px;
+    width: 250px;
+    align-self: center;
+}
+img{
+    border:3px ridge rgb(64, 21, 221);
+    width:100px;
+    height:100px;
+    display:grid;
+    position: relative;
+}
